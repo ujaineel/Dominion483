@@ -1,5 +1,5 @@
 # Dominion483
-CMSC 483 Final Project
+Distributed Processeing of a Round-Robin AI Simulation
 
 Main driver to run: WinrateMatrixDriver.java
 
