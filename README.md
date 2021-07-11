@@ -1,8 +1,9 @@
 - Project Report : "Distributed Processing of a Round-Robin.pdf"
 
 # Dominion483
-Group Project for Course - Distributed & Parallel Processing
 Distributed Processeing of a Round-Robin AI Simulation
+
+Group Project for Course - Distributed & Parallel Processing
 
 Main driver to run: WinrateMatrixDriver.java
 
